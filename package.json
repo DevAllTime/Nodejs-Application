@@ -1,0 +1,23 @@
+{
+  "name": "NodejsApplication",
+  "version": "1.0.0",
+  "description": "This repository contains the code that is triggered from the Jenkins AWS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSK001/Nodejs-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSK001/Nodejs-Application/issues"
+  },
+  "homepage": "https://github.com/SSK001/Nodejs-Application#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
