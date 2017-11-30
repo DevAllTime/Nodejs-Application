@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/SSK001/Nodejs-Application#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "pm2": "^2.8.0"
   },
   "devDependencies": {
     "mocha": "^4.0.1",
